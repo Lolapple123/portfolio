@@ -1,4 +1,4 @@
-# Concurrent Traffic Simulation – Nucleo Board
+# Concurrent Traffic Simulation - Nucleo Board
 
 **Description:**  
 Created a concurrent traffic simulation system on a Nucleo board that handles both pedestrians and vehicles simultaneously. The system models traffic flow, signal coordination, and collision avoidance.  
