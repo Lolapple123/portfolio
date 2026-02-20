@@ -1,4 +1,4 @@
-# Image Processor – DE10-Lite FPGA Project
+# Image Processor - DE10-Lite FPGA Project
 
 **Description:**  
 Developed an image processing application using the DE10-Lite FPGA board. The system applies matrix multiplication techniques to modify images, allowing them to be sharpened or blurred.  
