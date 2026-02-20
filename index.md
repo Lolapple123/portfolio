@@ -7,9 +7,9 @@ ihsancawad@outlook.com
 LinkedIn: [[länk] ](https://www.linkedin.com/in/ihsan-xasan-31177633a/)
 
 ## Projects
-- [Image Processor – DE10-Lite FPGA](projects/project1.md)
-- [Digital-to-Analog Converter](projects/project2.md)
-- [Concurrent Traffic Simulation](projects/project3.md)
+- [Image Processor – DE10-Lite FPGA](projects/image_processor.md)
+- [Digital-to-Analog Converter](projects/DAC.md)
+- [Concurrent Traffic Simulation](projects/Traffic_Lights.md)
 
 ## Experience
 **Machine Operator • Scania • 2023 – Present**  
