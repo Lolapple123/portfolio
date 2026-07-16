@@ -10,3 +10,5 @@ FPGA (DE10-Lite), Verilog, Matrix Multiplication, Image Processing
 - Implemented image processing algorithms on the FPGA  
 - Designed and tested matrix multiplication operations  
 - Evaluated performance and adjusted parameters for sharpening and blurring effects  
+
+link to repository: https://github.com/Lolapple123/IS1200
